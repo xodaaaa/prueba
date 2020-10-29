@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name = "glab"
+          fetch ="https://gitlab.com" />
   <!-- Default -->
   <project name="LineageOS/android/device/xiaomi/polaris" path="device/xiaomi/polaris" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github" revision="lineage-16.0" />
