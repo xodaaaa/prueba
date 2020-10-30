@@ -9,3 +9,6 @@
 <project name="crdroidandroid/android_device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github" revision="10.0-polaris" />
 <project name="the-muppets/propietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="lineage17.1" />
 <project name="crdroidandroid/android_kernel_xiaomi_sdm845" path="kernel/xiaomi/sdm845" remote="github" revision="10.0-polaris" />
+
+         
+</manifest>         
