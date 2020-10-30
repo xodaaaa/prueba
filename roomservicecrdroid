@@ -5,7 +5,7 @@
          fetch="https://gitlab.com" />
                 
   <!-- Default -->
-<project name="cdroidandroid/android_device_xiaomi_polaris" path="device/android_device_xiaomi_polaris" remote="github" revision="10.0" />
-<projectname="crdroidandroid/android_device_xiaomi_sdm845-common" path="device/android_device_xiaomi_sdm845_common" remote="github" revision="10.0-polaris" />
+<project name="cdroidandroid/android_device_xiaomi_polaris" path="device/polaris" remote="github" revision="10.0" />
+<projectname="crdroidandroid/android_device_xiaomi_sdm845-common" path="device/sdm845_common" remote="github" revision="10.0-polaris" />
 <project name="the-muppets/propietary_vendor_xiaomi" path="vendor/proprietary_vendor_xiaomi" remote="gitlab" revision="lineage17.0" />
 <project name="crdroidandroid/android_kernel_xiaomi_sdm845" path="kernel/android_kernel_xiaomi_sdm845" remote="github" revision="10.0-polaris" />
