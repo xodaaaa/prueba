@@ -1,0 +1,15 @@
+  
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name = "glab"
+         fetch="https://gitlab.com" />
+                
+  <!-- Default -->
+<project name="AOSPA/android_device_xiaomi_polaris" path="device/xiaomi/polaris" remote="github" revision="quartz" />
+<project name="AOSPA/android_device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github" revision="quartz" />
+<project name="the-muppets/propietary_vendor_xiaomi" path="vendor/xiaomi/polaris" remote="gitlab" revision="lineage17.1" />
+<project name="AOSPA/android_kernel_xiaomi_sdm845" path="kernel/xiaomi/sdm845" remote="github" revision="quartz" />
+
+         
+</manifest>     
